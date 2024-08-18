@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">الطوارئ</string>
+    <string name="child_care">رعاية الاطفال</string>
+    <string name="ambulance">الاسعاف</string>
+    <string name="police">الشرطة</string>
+    <string name="fire">المطافئ</string>
+    <string name="exterminator">ابادة الحشرات</string>
+    <string name="pharmacy">الصيدالية</string>
+    <string name="call_for_help_now">اتصل للمساعدة في الحال!</string>
+    <string name="dialog_exit_title">الخروج</string>
+    <string name="dialog_msg">هل تريد الخروج الان ؟</string>
+    <string name="positive_ans">نعم</string>
+    <string name="negative_ans">لا</string>
+</resources>
